@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
+      "projectUniqueName": "C:\\projeto\\Site\\GerenciadorFC.Web\\Site_Novo\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
       "projectName": "GerenciadorFC.Web",
-      "projectPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
+      "projectPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\Site_Novo\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\obj\\",
+      "outputPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\Site_Novo\\GerenciadorFC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

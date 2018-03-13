@@ -42,3 +42,14 @@ C:\projeto\Site\GerenciadorFC.Web\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\Gere
 C:\projeto\Site\GerenciadorFC.Web\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
 C:\projeto\Site\GerenciadorFC.Web\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.dll
 C:\projeto\Site\GerenciadorFC.Web\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.pdb
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.deps.json
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.json
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.dev.json
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.dll
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.pdb
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.csprojResolveAssemblyReference.cache
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.csproj.CoreCompileInputs.cache
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfoInputs.cache
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.dll
+C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.pdb
