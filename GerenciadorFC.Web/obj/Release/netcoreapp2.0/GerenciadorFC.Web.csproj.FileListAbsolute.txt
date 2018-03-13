@@ -9,3 +9,14 @@ C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Release\netcoreapp2.0\Gerenci
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.dll
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.pdb
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Release\netcoreapp2.0\GerenciadorFC.Web.deps.json
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Release\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.json
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Release\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.dev.json
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Release\netcoreapp2.0\GerenciadorFC.Web.dll
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Release\netcoreapp2.0\GerenciadorFC.Web.pdb
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.dll
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Release\netcoreapp2.0\GerenciadorFC.Web.pdb

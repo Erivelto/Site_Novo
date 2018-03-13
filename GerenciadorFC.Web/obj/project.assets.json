@@ -13123,26 +13123,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fabio\\.nuget\\packages\\": {},
+    "C:\\Users\\Diego\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Documents\\GitHub\\Site_Novo\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
       "projectName": "GerenciadorFC.Web",
-      "projectPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
-      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\projeto\\Site\\GerenciadorFC.Web\\GerenciadorFC.Web\\obj\\",
+      "projectPath": "C:\\Users\\Diego\\Documents\\GitHub\\Site_Novo\\GerenciadorFC.Web\\GerenciadorFC.Web.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diego\\Documents\\GitHub\\Site_Novo\\GerenciadorFC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
