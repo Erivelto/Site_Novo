@@ -140,7 +140,7 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
+	color: #ccc;
 }
 
 address {
@@ -655,6 +655,8 @@ a:focus,
 	float: left;
 	width: 100%;
 	padding: 100px 0 50px;
+	background: #F6F6F6;
+	
 }
 
 .mu-service-area {
