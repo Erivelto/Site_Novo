@@ -47,9 +47,9 @@ C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.dev.json
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.dll
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\bin\Debug\netcoreapp2.0\GerenciadorFC.Web.pdb
-C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.csprojResolveAssemblyReference.cache
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.csproj.CoreCompileInputs.cache
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfoInputs.cache
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.dll
 C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.pdb
+C:\Users\Diego\Documents\GitHub\Site_Novo\GerenciadorFC.Web\obj\Debug\netcoreapp2.0\GerenciadorFC.Web.csprojResolveAssemblyReference.cache

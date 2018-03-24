@@ -271,10 +271,13 @@ a:focus,
 .mu-logo,
 .mu-logo:hover,
 .mu-logo:focus,
+.mu-txtlogo,
+.mu-txtlogo:hover,
+.mu-txtlogo:focus,
 .mu-client-quote,
-.mu-clients-slider .slick-prev, 
+.mu-clients-slider .slick-prev,
 .mu-clients-slider .slick-next,
-.mu-clients-slider .slick-prev::before, 
+.mu-clients-slider .slick-prev::before,
 .mu-clients-slider .slick-next::before,
 .my-why-us-single-icon {
 	color: #0091ea;
@@ -332,6 +335,15 @@ a:focus,
 	color: #fff;
 	font-weight: 600;
 	font-size: 36px;
+}
+.mu-navbar .mu-txtlogo {
+	color: #fff;
+	font-style:italic;
+	font-size: 18px;
+}
+.mu-txtlogo span {
+	display: inline-block;
+	
 }
 
 .mu-logo span{
@@ -585,7 +597,7 @@ a:focus,
 }
 
 .mu-about-right p {
-	font-size: 14px;
+	font-size: 16px;
 }
 
 
