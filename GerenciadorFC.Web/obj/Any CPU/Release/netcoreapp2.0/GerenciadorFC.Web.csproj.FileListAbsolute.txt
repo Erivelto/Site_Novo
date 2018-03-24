@@ -9,14 +9,3 @@ C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.dll
 C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.pdb
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.deps.json
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.json
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.runtimeconfig.dev.json
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.dll
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\bin\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.pdb
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.csprojResolveAssemblyReference.cache
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.csproj.CoreCompileInputs.cache
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfoInputs.cache
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.AssemblyInfo.cs
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.dll
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\obj\Any CPU\Release\netcoreapp2.0\GerenciadorFC.Web.pdb

@@ -1,12 +1,12 @@
-C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web
+C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web
 --output-path=obj\Any CPU\Release\netcoreapp2.0\
 --application-name=GerenciadorFC.Web
---content-root=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Home\About.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Home\Index.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Home\Services.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Shared\Error.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Shared\_Layout.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\Shared\_ValidationScriptsPartial.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\_ViewImports.cshtml
---file=C:\projeto\Site\GerenciadorFC.Web\Site_Novo\GerenciadorFC.Web\Views\_ViewStart.cshtml
+--content-root=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Home\About.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Home\Index.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Home\Services.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Shared\Error.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Shared\_Layout.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\_ViewImports.cshtml
+--file=C:\projeto\Site\Erivelto.Web\GerenciadorFC.Web\Views\_ViewStart.cshtml

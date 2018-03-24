@@ -271,10 +271,13 @@ a:focus,
 .mu-logo,
 .mu-logo:hover,
 .mu-logo:focus,
+.mu-txtlogo,
+.mu-txtlogo:hover,
+.mu-txtlogo:focus,
 .mu-client-quote,
-.mu-clients-slider .slick-prev, 
+.mu-clients-slider .slick-prev,
 .mu-clients-slider .slick-next,
-.mu-clients-slider .slick-prev::before, 
+.mu-clients-slider .slick-prev::before,
 .mu-clients-slider .slick-next::before,
 .my-why-us-single-icon {
 	color: #0091ea;
@@ -316,7 +319,7 @@ a:focus,
 /*--------------------*/
 
 #mu-hero {
-	background-color: #0091ea;
+	background-color: #f8f9fa;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -332,6 +335,15 @@ a:focus,
 	color: #fff;
 	font-weight: 600;
 	font-size: 36px;
+}
+.mu-navbar .mu-txtlogo {
+	color: #fff;
+	font-style:italic;
+	font-size: 18px;
+}
+.mu-txtlogo span {
+	display: inline-block;
+	
 }
 
 .mu-logo span{
@@ -367,10 +379,9 @@ a:focus,
 }
 
 
-/*--------------------*/
+.mu-title h2
 /* MENUE */
 /*--------------------*/
-
 .mu-navbar {
 	padding: 20px 0;
 }
@@ -386,18 +397,17 @@ a:focus,
 	display: inline-block;
 }
 
-.mu-navbar-nav li a {
-	color: #fefeff;
-	display: block;
-	font-size: 14px;
-	font-weight: 700;
-	text-transform: uppercase;
-	padding: 9px 18px;
-	border-radius: 15px;
-	-webkit-transition: all 0.5s;
-	-o-transition: all 0.5s;
-	transition: all 0.5s;
-}
+	.mu-navbar-nav li a {
+		color: #4389d4;
+		display: block;
+		font-size: 14px;
+		font-weight: 700;
+		padding: 9px 18px;
+		border-radius: 15px;
+		-webkit-transition: all 0.5s;
+		-o-transition: all 0.5s;
+		transition: all 0.5s;
+	}
 
 
 .navbar-light .navbar-nav .active > .nav-link, 
@@ -542,12 +552,11 @@ a:focus,
 	padding: 0 25%;
 }
 
-.mu-title h2 {
-	color: #323232;
-	font-size: 30px;
-	text-transform: uppercase;
-	margin-bottom: 15px;
-}
+	.mu-title h2 {
+		color: #4389d4;
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
 
 .mu-title p {
 
@@ -575,17 +584,17 @@ a:focus,
 	margin-bottom: 25px;
 }
 
-.mu-about-right ul li h3 {
-	border-bottom: 3px solid #e5e5e5;
-	color: #323232;
-	font-size: 20px;
-	display: inline-block;
-	padding-bottom: 5px;
-	margin-bottom: 15px;
-}
+	.mu-about-right ul li h3 {
+		border-bottom: 3px solid #e5e5e5;
+		color: #4389d4;
+		font-size: 20px;
+		display: inline-block;
+		padding-bottom: 5px;
+		margin-bottom: 15px;
+	}
 
 .mu-about-right p {
-	font-size: 14px;
+	font-size: 16px;
 }
 
 
@@ -1052,9 +1061,11 @@ a:focus,
 	width: 100%;
 }
 
-.mu-pricing-area h2 {
-	color: #333;	
-}
+	.mu-pricing-area h2 {
+		color: #4389d4;
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
 
 .mu-title-content {
 	padding: 0 10%;
